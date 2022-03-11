@@ -1,4 +1,11 @@
-## 啥都不会，基本没得写
+## Hi there 👋
+
+- Sophomore in [SUSTech](https://www.sustech.edu.cn/en/).
+- Studying computer graphics and game development.
+- Amateur for front-end dev.
+- Nearly all of my repos are semester projects and homeworks.
+
+## 然后啥都不会，基本没得写
 
 - 在南科大摆烂
 - 除了烂尾的pixiviewer剩下的除了纪念品(?)就是学校作业
