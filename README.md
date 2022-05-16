@@ -16,4 +16,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fros1er)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fros1er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fros1er&layout=compact&hide=vhdl,verilog)](https://github.com/anuraghazra/github-readme-stats)
