@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- Sophomore in [SUSTech](https://www.sustech.edu.cn/en/).
-- Studying computer graphics and game development.
+- Junior in [SUSTech](https://www.sustech.edu.cn/en/).
+- ~~Studying computer graphics and game development.~~ Studing everything needed for an internship. It's hard...
 - Amateur for front-end dev.
 - Nearly all of my repos are semester projects and homeworks.
 
