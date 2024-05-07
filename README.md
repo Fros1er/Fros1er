@@ -15,6 +15,16 @@
 - 不喜欢炼丹（炼丹为什么我不去生化环材炼），喜欢原理清楚且确定的东西。因为是cpp选手所以有那么一点强迫症。
 - お持ちなさい あなたの望んだその星を
 
+## Tech Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,rust,html,css,js,vue,mysql,php,git)](https://skillicons.dev)
+
+Also knows(but not much) about stm32, unity 2D gaming, chisel(the HDL).
+
+Dream to be a fuuuuuuuuuuuuuuull stack guy. Maybe one day I can add 3D CAD, circuit design, game making, android dev, deep learning here. Hope I can have such free time :(
+
+## Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fros1er)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fros1er&layout=compact&hide=vhdl,verilog,systemverilog,assembly,plpgsql&exclude_repo=SUSTech-CS301-xiaotiancai-not-watch)](https://github.com/anuraghazra/github-readme-stats)
