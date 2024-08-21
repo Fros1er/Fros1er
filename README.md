@@ -1,25 +1,34 @@
 ## Hi there 👋
 
-- Senior in [SUSTech](https://www.sustech.edu.cn/en/).
-- Preparing to take my master degree, still at SUSTech. ~~Intern at [ApeCloud](https://github.com/apecloud). Working on an OLAP now as a newbie. / Studing everything needed for an internship. It's hard... / Studying computer graphics and game development.~~
-- Amateur for front-end dev. Interested on game dev and embedded system.
-- Nearly all of my repos are semester projects and homeworks.
+- Just finished my bachelor's degree at [SUSTech](https://www.sustech.edu.cn/en/).
+- Preparing to take master degree, still at SUSTech. 
+  - ~~Intern at [ApeCloud](https://github.com/apecloud). Working on an OLAP now as a newbie.~~
+  - ~~Studing everything needed for an internship. It's hard...~~
+  - ~~Studying computer graphics and game development.~~
+- Dreaming to be amateur for everything.
+- Most of my repos are semester projects, homeworks, simple scripts and toy projects.
 
-## 然后啥都不会，基本没得写
+## 不知道自己会什么，也不知道以后想干嘛
 
-- 继续在南科大摆烂。~~在南科大摆烂。现在在[ApeCloud](https://github.com/apecloud)实习，但是真的不太会数据库相关的东西(~~ 
-- 除了烂尾的pixiviewer，几个奇妙脚本以外，剩下的除了学校作业就是纪念品(?)
-- 过四年就可能得桥洞里头盖小被 ~~过一年就可能得桥洞里头盖小被~~
-- 有一个人生目标大概是在这里搞个过得去的东西
-- 啥都会一点型选手，~~以后想去做游戏~~游戏估计没得做了。准备读研，之后干啥再说。~~估计读个研然后随便找个班上吧。最好是能做系统。~~
-- 不喜欢炼丹（炼丹为什么我不去生化环材炼），喜欢原理清楚且确定的东西。因为是cpp选手所以有那么一点强迫症。
+- 目前继续在南科大摆烂。
+  - ~~现在在[ApeCloud](https://github.com/apecloud)实习，但是真的不太会数据库相关的东西(~~
+  - ~~在南科大摆烂。~~ 
+- 大部分repo是学校作业，toy project和一些脚本。
+- 过三年就可能得桥洞里头盖小被。
+- 有一个人生目标大概是在这里搞个过得去的东西。目前貌似正在做。
+- 啥都想会一点型选手，梦想是真的啥都会一点。准备读研，之后干啥再说。
+  - ~~估计读个研然后随便找个班上吧。最好是能做系统。~~
+  - ~~以后想去做游戏~~游戏估计没得做了。
+- 不喜欢炼丹（炼丹为什么我不去生化环材炼），喜欢原理清楚且确定的东西。
 - お持ちなさい あなたの望んだその星を
 
 ## Tech Stacks
 
+Knows(but not much) about:
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,rust,html,css,js,vue,mysql,php,git)](https://skillicons.dev)
 
-Also knows(but not much) about stm32, unity 2D gaming, chisel(the HDL).
+and: stm32, unity 2D gaming, chisel(the HDL).
 
 Dream to be a fuuuuuuuuuuuuuuull stack guy. Maybe one day I can add 3D CAD, circuit design, game making, android dev, deep learning here. Hope I can have such free time :(
 
